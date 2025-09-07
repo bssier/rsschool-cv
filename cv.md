@@ -50,3 +50,9 @@ function squareDigits(num){
 
 ```
 
+---
+
+### Languages
+ * English — Intermediate
+ * Russian — Native
+ * Belarusian — Advanced
