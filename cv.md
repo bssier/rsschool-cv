@@ -20,3 +20,11 @@ I easily get in touch and find a common language with people. I always enjoy lea
 I am hardworking and persevering. I'm not afraid to make mistakes, because it's mistakes that help you grow.\
 I dream of becoming a frontend developer.
 
+---
+
+### Skills
+
+ * HTML & CSS
+ * Git
+ * JavaScript (basics)
+ * AWS (basics)
