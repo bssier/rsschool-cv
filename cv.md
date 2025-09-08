@@ -18,8 +18,7 @@
 ### About me
 
 I easily get in touch and find a common language with people. I always enjoy learning something new. \
-I am hardworking and persevering. I'm not afraid to make mistakes, because it's mistakes that help you grow.\
-I dream of becoming a frontend developer.
+I am hardworking and persevering. I'm not afraid to make mistakes, because it's mistakes that help you grow.
 
 ---
 
