@@ -1,1 +1,1 @@
-https://bssier.github.io/rsschool-cv/cv
+https://bssier.github.io/rsschool-cv/cv https://bssier.github.io/rsschool-cv/
